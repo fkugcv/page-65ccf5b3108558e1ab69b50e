@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b27589ac6dafb01361cacf4d",
+  "owner": "fkugcv",
+  "repo": "page-65ccf5b3108558e1ab69b50e",
+  "title": "SuperFly",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "65ccf5b3108558e1ab69b50e",
+      "a": "SuperFly",
+      "b": "",
+      "entity": "SuperFly",
+      "brand": "SuperFly",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1f2a733354cdb33fb5c125fe90bc7989cb8a14ec7ce6cf364862a2ff2ae68510",
+      "content": {
+        "keyword1": "SuperFly",
+        "keyword2": "",
+        "primary_entity": "SuperFly",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "SuperFly 是提供机场订阅与 VPN 网络加速的官方服务平台，支持多端客户端下载，覆盖流媒体解锁、跨境办公与游戏加速，套餐清晰、节点稳定。",
+          "AI_DESCRIPTION": "SuperFly 是提供机场订阅与 VPN 网络加速的官方服务平台，支持多端客户端下载，覆盖流媒体解锁、跨境办公与游戏加速，套餐清晰、节点稳定。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;width:100%;}*{box-sizing:border-box;}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F7F4EF;color:#1A2E24;font-size:16px;line-height:1.65;word-wrap:break-word;overflow-x:hidden;}a{color:#1E4D3A;text-decoration:underline;}header{background:#1E4D3A;color:#F7F4EF;padding:18px 16px;}header .brand{font-size:1.25rem;font-weight:700;letter-spacing:0.04em;}header p{margin:6px 0 0;font-size:0.92rem;color:#D5E8DC;}nav{background:#163D2E;padding:10px 16px;display:flex;flex-wrap:wrap;gap:10px 14px;}nav a{color:#E7F3EC;text-decoration:none;font-size:0.92rem;}main{max-width:880px;margin:0 auto;padding:20px 16px 40px;}h1{font-size:1.7rem;line-height:1.3;margin:0 0 12px;color:#1E4D3A;}h2{font-size:1.28rem;margin:28px 0 12px;color:#1E4D3A;border-bottom:2px solid #C9DCCF;padding-bottom:6px;}h3{font-size:1.05rem;margin:16px 0 8px;color:#245C44;}p,li{margin:0 0 10px;}ul{margin:0 0 12px;padding-left:1.2em;}.lead{font-size:1.02rem;color:#2C3F36;}.cards{display:flex;flex-wrap:wrap;gap:12px;margin:12px 0 8px;}.card{flex:1 1 240px;background:#FFFFFF;border:1px solid #D4E0D8;border-radius:8px;padding:14px 16px;min-width:0;}.card.featured{border:2px solid #1E4D3A;background:#E9F3ED;}.tag{display:inline-block;background:#1E4D3A;color:#F7F4EF;font-size:0.75rem;padding:2px 8px;border-radius:4px;margin-bottom:8px;}.price{font-size:1.2rem;font-weight:700;color:#1E4D3A;margin:4px 0;}.note{font-size:0.88rem;color:#4A5C52;margin-bottom:8px;}.card ul{padding-left:1.1em;font-size:0.95rem;}.panel{background:#FFFFFF;border:1px solid #D4E0D8;border-radius:8px;padding:14px 16px;margin:0 0 12px;}.list a{display:inline-block;margin:0 10px 8px 0;}details{background:#FFFFFF;border:1px solid #D4E0D8;border-radius:8px;padding:10px 14px;margin:0 0 8px;}summary{font-weight:600;color:#1E4D3A;}details p{margin:8px 0 0;color:#2C3F36;}#ads .card{background:#F0F7F3;}footer{background:#1E4D3A;color:#D5E8DC;padding:24px 16px;font-size:0.9rem;}footer .inner{max-width:880px;margin:0 auto;}footer a{color:#C5E0D0;}footer h2{color:#F7F4EF;border-bottom-color:#2E6B50;font-size:1.05rem;margin-top:0;}footer ul{padding-left:1.1em;}</style><header><div class=\"brand\">SuperFly</div><p>机场订阅 · VPN 梯子 · 多端客户端官方下载</p></header><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a><a href=\"#links\">友链</a></nav><main><h1>SuperFly 官方网站</h1><p class=\"lead\">SuperFly 面向需要稳定跨境访问的个人与团队，提供机场订阅与 VPN 网络加速服务。本站是官方网站入口，集中说明套餐、节点用途、客户端选择与导入步骤，帮助你完成官网下载与日常使用。</p><section id=\"intro\"><h2>SuperFly 品牌简介</h2><h3>服务定位</h3><p>SuperFly 将机场订阅与客户端加速器结合：购买套餐后即可获得订阅链接，在 Windows、macOS、Android、iOS 及常见第三方客户端中导入，用于网页访问、流媒体解锁与游戏线路优化。服务强调可预期的流量配额、同时在线设备数，以及可对照的官方下载入口，避免来源不明的安装包。</p><h3>节点与线路</h3><p>节点池覆盖香港、东京、新加坡、洛杉矶、伦敦等常用区域，旗舰版与团队版包含 IPLC 专线游戏优化与更高带宽 VIP 节点。普通线路适合日常浏览与基础流媒体；专线适合对延迟更敏感的会议与对战。SuperFly 不把“无限速度”作为承诺，而是按套餐给出流量与设备上限，便于长期规划。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为 SuperFly 当前公开套餐。年付按 10 个月计费，适合已经确认客户端与使用场景的用户。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"note\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"note\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"note\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"clients\"><h2>客户端选择与官方下载</h2><p>SuperFly 的使用核心是“订阅 + 客户端”。请优先在本页完成官方下载对照，再把订阅链接导入对应应用。不同系统可并行使用，但需遵守套餐的同时在线台数。</p><div class=\"panel\"><h3>桌面端：Windows 与 macOS</h3><p>Windows 建议使用 SuperFly 官方客户端或兼容 Clash 内核的图形界面，导入订阅后可按地区、延迟或负载筛选节点。macOS 可使用官方客户端，也可配合 Surge、Clash Verge 等工具。桌面端适合长时间挂机、分流规则与游戏加速。官方安装包入口：<a href=\"#clients\">SuperFly Windows 客户端下载</a>、<a href=\"#clients\">SuperFly macOS 客户端下载</a>。</p></div><div class=\"panel\"><h3>移动端：Android 与 iOS</h3><p>Android 可安装 SuperFly 官方应用或兼容 Clash Meta 的客户端，适合在蜂窝网络与 Wi-Fi 间切换。iOS 常用 Shadowrocket、Stash、Quantumult 等导入订阅；请通过本站说明核对配置字段，避免错误的混淆订阅。移动端入口：<a href=\"#clients\">Android 官方下载</a>、<a href=\"#guide\">iOS 导入说明</a>。</p></div><div class=\"panel\"><h3>第三方兼容与路由器</h3><p>SuperFly 机场订阅遵循常见 Clash / Surge 格式，可在支持订阅更新的客户端中自动拉取节点。家庭或工作室如需整网加速，团队版可配合定制路由，将指定网段走 IPLC 或高带宽节点。下载与文档均以 SuperFly 官网为准，不通过第三方网盘分发安装包。</p></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与资料访问</h3><p>远程会议、代码仓库、文档协作对稳定性要求高于峰值带宽。基础版即可覆盖轻度办公；频繁切换地区或同时开多台电脑时，旗舰版的 5 设备与优先工单更合适。</p><h3>流媒体与内容研究</h3><p>基础版提供基础流媒体解锁，旗舰版强调全节点原生解锁，减少因公共出口导致的播放失败。建议在客户端中为视频域名单独分流，避免全局模式占用过多流量。</p><h3>游戏加速</h3><p>旗舰版含 IPLC 专线游戏加速优化，团队版另有 VIP 高带宽节点。对战类应用请固定一条延迟稳定的线路，而不是频繁自动切换。SuperFly 将游戏场景放在专线套餐中，而不是所有套餐均一概而论。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>获取机场订阅</h3><p>在官方网站选择套餐并完成开通后，账户页会给出订阅地址。请复制完整链接，不要截断参数。订阅用于客户端拉取节点列表，本身不是“一个节点密码”。</p><h3>导入客户端</h3><p>打开已下载的 SuperFly 客户端或兼容应用，选择“从 URL 导入”或“订阅管理”，粘贴链接并更新。首次导入后建议手动测速，将常用地区置顶。iOS 第三方客户端需在配置中确认 DNS 与分流模式，以免出现只能打开部分网站的情况。</p><h3>日常使用与设备管理</h3><p>同一套餐可在多台设备登录，但同时在线受套餐限制：基础版 3 台、旗舰版 5 台、团队版 20 台。流量按自然月重置。若某个客户端频繁重连，优先更换节点组或检查本地系统代理端口占用，而不是重复下载安装包。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>SuperFly 是什么？和普通 VPN 有何不同？</summary><p>SuperFly 是机场订阅与 VPN 加速器结合的服务：你购买的是带流量与设备上限的订阅，可在多款客户端中导入节点。相对单一 App 内置线路，机场模式更方便按系统选择客户端，并把分流规则留在本地。</p></details><details><summary>如何完成 SuperFly 客户端下载？</summary><p>请只通过本站「客户端选择与官方下载」区块进入对应系统入口。Windows 与 Android 提供官方安装包，macOS 提供官方客户端，iOS 以兼容应用导入订阅。不要使用来路不明的镜像，以免订阅被替换。</p></details><details><summary>机场订阅链接怎么导入？</summary><p>复制账户中的订阅 URL，在客户端的订阅或配置页面粘贴并更新。Clash 系选择对应 YAML/订阅类型，Surge 与 Shadowrocket 选择 HTTPS 订阅。导入成功后应看到按地区分组的节点，而不是空白列表。</p></details><details><summary>基础版、旗舰版和团队版如何选择？</summary><p>轻度浏览与 3 台设备内使用选基础版。需要原生流媒体、游戏专线或 5 台设备选旗舰版。工作室、教室或需要定制路由、专属客户经理时选团队版。年付适合已经固定客户端方案的用户。</p></details><details><summary>SuperFly 是否支持流媒体解锁与游戏加速？</summary><p>基础版支持基础流媒体；旗舰版提供全节点原生流媒体解锁，并包含 IPLC 专线游戏加速优化。团队版在此之上提供 VIP 高带宽节点。实际播放与对战仍取决于当地出口与客户端分流是否正确。</p></details><details><summary>流量用完或设备超限怎么办？</summary><p>当月流量用尽后新连接会受限，可等待下月重置或升级套餐。同时在线超出上限时，较早的会话可能被挤下线。建议在不常用的设备上关闭系统代理，把名额留给正在使用的电脑与手机。</p></details></section><section id=\"sitemap\"><h2>网站地图</h2><p class=\"list\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端官方下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作信息</a><a href=\"#links\">友情链接</a></p><p>完整索引亦可对照站点 sitemap 路径：<a href=\"#sitemap\">/sitemap.xml</a>（本页锚点导航）。</p></section><section id=\"ads\"><h2>合作与展示</h2><div class=\"cards\"><article class=\"card\"><h3>客户端适配合作</h3><p>工具作者如需对接 SuperFly 订阅字段说明，请通过官网工单备注「客户端适配」，勿在非官方渠道索取测试密钥。</p><p><a href=\"#guide\">查看导入规范</a></p></article><article class=\"card\"><h3>团队线路咨询</h3><p>20 台以上设备或需要定制路由的机构，可对照团队版说明准备网段与办公时段，再由客户经理评估专线方案。</p><p><a href=\"#plans\">查看团队版</a></p></article></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"links\"><div class=\"inner\"><h2>友情链接</h2><ul><li><a href=\"#clients\">SuperFly 客户端下载中心</a></li><li><a href=\"#guide\">机场订阅导入指南</a></li><li><a href=\"#faq\">VPN 梯子常见问题</a></li><li><a href=\"#plans\">网络加速套餐说明</a></li><li><a href=\"#sitemap\">SuperFly 网站地图</a></li></ul><p>SuperFly 官方网站提供机场订阅、VPN 加速器与客户端官方下载说明。内容以本页套餐与操作步骤为准。</p><p>© SuperFly 官方 · 仅通过官网获取客户端与订阅</p></div></footer>",
+          "hash": "ef29285fb301e100e315e503f0a101931668f11cc95f43917387a2e29e2ff00b",
+          "seo": {
+            "title": "SuperFly 官方网站：VPN 加速器与机场订阅客户端下载",
+            "keywords": "SuperFly, SuperFly机场, SuperFly VPN, 机场订阅, VPN梯子, 网络加速, 加速器, 客户端下载, 官网下载, 官方网站",
+            "description": "SuperFly 是提供机场订阅与 VPN 网络加速的官方服务平台，支持多端客户端下载，覆盖流媒体解锁、跨境办公与游戏加速，套餐清晰、节点稳定。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fifityp.cn",
+    "host": "p-52a1819d32.fifityp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "fifityp.cn",
+      "url": "https://fifityp.cn/",
+      "label": "OxygenProxy",
+      "apex": "fifityp.cn",
+      "kind": null,
+      "identity": "uuasxs/page-c133667095a8b3ffff5f031b"
+    },
+    {
+      "host": "aekbk.cn",
+      "url": "https://aekbk.cn/",
+      "label": "SuperFly",
+      "apex": "aekbk.cn",
+      "kind": null,
+      "identity": "jdtknry/page-9835863fd7d65b41d4748d59"
+    },
+    {
+      "host": "aixachang.cn",
+      "url": "https://aixachang.cn/",
+      "label": "SuperFly",
+      "apex": "aixachang.cn",
+      "kind": null,
+      "identity": "ccbmykayw/page-0b64ab8f538e477ffda4c3ac"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8aaaa6c41cd9d7e01e84cde0f9a17bc02911294cba2001e1c1fee8bb0286271b",
+    "sitemap.xml": "e664251c95ab2c1af249e8ef0127ba8c79b22bd2585c8c25179ea4927bb203b5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "34a8b88ec5aaf0d672f0971de9cfccf23323e9239444ef6f3c5fe36493e3305e",
+    "robots.txt": "b676f7a1a0377e1ed0049b651a32d5594b671c03656842e159a612ffe0fb9ca8",
+    "b728f76e0cf7bc225ed53ac81f71afd2.txt": "0bcb9b3aee7a15f263bcbc3967077255ce8e425ddba04f729366a375cb7c3dd8"
+  },
+  "revision": "f944d90e9067b3370a0eedc3b664d32d4e17f90ddc32abda7438d92d6a037cba"
+}
